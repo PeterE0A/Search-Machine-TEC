@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search Machine TEC", "Search Machine TEC\Search Machine TEC.csproj", "{07C5F78D-7A38-4419-9A06-906A975FED8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C5F78D-7A38-4419-9A06-906A975FED8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C5F78D-7A38-4419-9A06-906A975FED8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C5F78D-7A38-4419-9A06-906A975FED8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C5F78D-7A38-4419-9A06-906A975FED8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3012BF8F-48D2-4615-B6A4-1502CF373CA3}
+	EndGlobalSection
+EndGlobal
